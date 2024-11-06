@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Chennai",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-11-06T19:42:25.299Z",
+      "notes": "Wonderful  View 🏖️",
+      "position": {
+        "lat": "13.108231275490564",
+        "lng": "80.30216215975817"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Delhi",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-11-06T19:44:17.694Z",
+      "notes": "India's Capital",
+      "position": {
+        "lat": "28.611071760099428",
+        "lng": "77.23062516185749"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Paradise",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-11-06T19:44:42.565Z",
+      "notes": "Must Visit🛒",
+      "position": {
+        "lat": "39.638121069336705",
+        "lng": "-121.5966825224457"
+      },
+      "id": 4
+    }
+  ]
+}
