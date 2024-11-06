@@ -1,18 +1,18 @@
 <h1>Wander Map</h1>
 Wander Map is a React application built with Vite that allows users to mark their tour locations on a map and add notes for each marked location. This project utilizes react-leaflet for the map interface, react-dom-router for navigation, useReducer for state management, and CSS modules for styling.
 
-##Features
+<h1>Features</h1>
 <li>Interactive map for marking locations</li>
 
 <li>Add and view notes for each marked location</li>
 
 <li>Responsive design for all devices</li>
 
-##Technologies Used
+<h1>Technologies Used</h1>
 <ul> <li><strong>React</strong>: JavaScript library for building user interfaces</li> <li><strong>Vite</strong>: Next generation frontend tooling</li> <li><strong>react-leaflet</strong>: React components for Leaflet maps</li> <li><strong>react-dom-router</strong>: DOM bindings for React Router</li> <li><strong>useReducer</strong>: React hook for state management</li> <li><strong>CSS Modules</strong>: Scoped CSS for styling components</li> </ul>
 
 
-##Installation
+<h1>Installation</h1>
 
 Clone the repository: 
 ```
